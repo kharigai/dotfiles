@@ -1,1 +1,6 @@
-# dotfiles
+dotfiles
+========
+
+### tmux.conf
+
+#### setup
